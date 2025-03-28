@@ -3,7 +3,12 @@
 - 🔭 Trabalhando com Java
 - 🌱 Estudando Desenvolvimento Web
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LD-Daniel&show_icons=true&theme=tokyonight)](https://github.com/LD-Daniel)
+<div>
+	<a href="https://github.com/LD-Daniel">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LD-Daniel&theme=shadow_green&show_icons=true"/>
+	<a href="https://github.com/LD-Daniel">
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LD-Daniel&layout=compact&langs_counts=8&theme=shadow_green"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
