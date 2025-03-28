@@ -16,6 +16,7 @@
 </div>
 
 ##
-          
+
+![GitHub Snake](https://github.com/LD-Daniel/LD-Daniel/blob/output/github-snake-dark.svg)
       
           
